@@ -88,7 +88,7 @@ Empfehlungen entstehen.
 Diese Datenschutzerklärung kann aktualisiert werden, wenn sich Funktionen der App ändern.
 Die aktuelle Version finden Sie stets unter:
 
-> _[URL der gehosteten Datenschutzerklärung — z. B. GitHub Pages — vor Veröffentlichung ausfüllen]_
+> https://veluxatdeveloper.github.io/plantdoctorai-legal/PRIVACY_POLICY.md
 
 ## 10. Kontakt
 
