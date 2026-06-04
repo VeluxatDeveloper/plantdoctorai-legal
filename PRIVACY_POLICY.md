@@ -1,6 +1,6 @@
 # Datenschutzerklärung — PlantDoctorAI
 
-**Stand:** 2. Juni 2026
+**Stand:** 4. Juni 2026
 
 Diese Datenschutzerklärung informiert Sie darüber, welche Daten die mobile Anwendung
 **PlantDoctorAI** ("die App") verarbeitet und wie diese Daten geschützt werden.
@@ -10,10 +10,10 @@ Diese Datenschutzerklärung informiert Sie darüber, welche Daten die mobile Anw
 Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 > **David Heles**
-> Trier, Rheinland-Pfalz, Deutschland
+> Ludwig-Simonstraße 31
+> 54295 Trier
+> Rheinland-Pfalz, Deutschland
 > E-Mail: VeluxatDev@gmail.com
->
-> *Eine ladungsfähige postalische Anschrift wird auf Anfrage per E-Mail mitgeteilt.*
 
 ## 2. Grundprinzip: Offline-Anwendung
 
