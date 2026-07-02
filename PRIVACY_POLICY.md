@@ -10,9 +10,6 @@ Diese Datenschutzerklärung informiert Sie darüber, welche Daten die mobile Anw
 Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 > **David Heles**
-> Ludwig-Simonstraße 31
-> 54295 Trier
-> Rheinland-Pfalz, Deutschland
 > E-Mail: VeluxatDev@gmail.com
 
 ## 2. Grundprinzip: Offline-Anwendung
